@@ -36,6 +36,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3C98F13522124445009AA11D /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/DBAttachmentPickerController.strings; sourceTree = "<group>"; };
+		3C98F13622124445009AA11D /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = ko; path = ko.lproj/DBAttachmentPickerController.stringsdict; sourceTree = "<group>"; };
 		A401D4F41D537A13006B2909 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		A401D4F81D537AEF006B2909 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/DBAttachmentPickerController.strings; sourceTree = "<group>"; };
 		A401D4F91D537AF0006B2909 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/DBAttachmentPickerController.strings; sourceTree = "<group>"; };
@@ -329,6 +331,7 @@
 				uk,
 				fr,
 				"pt-BR",
+				ko,
 			);
 			mainGroup = C3134EA61C9C30990023B9E6;
 			productRefGroup = C3134EB01C9C30990023B9E6 /* Products */;
@@ -399,6 +402,7 @@
 				A401D50D1D5553CA006B2909 /* uk */,
 				A401D50F1D55560A006B2909 /* fr */,
 				A43A510B1D76A68B00065358 /* pt-BR */,
+				3C98F13522124445009AA11D /* ko */,
 			);
 			name = DBAttachmentPickerController.strings;
 			sourceTree = "<group>";
@@ -416,6 +420,7 @@
 				A401D5101D55560A006B2909 /* fr */,
 				A41C4BD31D557B1A002FEA0B /* de */,
 				A43A510C1D76A68B00065358 /* pt-BR */,
+				3C98F13622124445009AA11D /* ko */,
 			);
 			name = DBAttachmentPickerController.stringsdict;
 			sourceTree = "<group>";
